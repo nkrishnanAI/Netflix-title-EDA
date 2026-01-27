@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1db2a34c-45e8-47bb-b5dd-a68e2ffda8b3" name="Changes" comment="Basic Data cleaning">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NetflixShow.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NetflixShow.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="1db2a34c-45e8-47bb-b5dd-a68e2ffda8b3" name="Changes" comment="Basic instructions added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,11 +53,28 @@
       <option name="project" value="LOCAL" />
       <updated>1769416570753</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Basic instructions added">
+      <option name="closed" value="true" />
+      <created>1769533810491</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1769533810491</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Basic instructions added">
+      <option name="closed" value="true" />
+      <created>1769533864848</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1769533864848</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Basic Data cleaning" />
-    <option name="LAST_COMMIT_MESSAGE" value="Basic Data cleaning" />
+    <MESSAGE value="Basic instructions added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic instructions added" />
   </component>
 </project>
