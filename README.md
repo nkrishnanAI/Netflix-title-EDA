@@ -59,7 +59,7 @@ This project performs **Exploratory Data Analysis (EDA)** on Netflix’s Movies 
 
 ---
 
-## 📌Conclusion
+## Conclusion
 This project demonstrates a complete EDA workflow, highlighting Netflix’s evolving global content strategy through data-driven insights and visual storytelling.
 
 ---
