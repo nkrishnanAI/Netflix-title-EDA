@@ -64,4 +64,4 @@ This project demonstrates a complete EDA workflow, highlighting Netflix’s evol
 
 ---
 
-## Project Structure
+
