@@ -55,7 +55,7 @@ This project performs **Exploratory Data Analysis (EDA)** on Netflix’s Movies 
 - Movies dominate the catalog, while TV Shows show steady growth  
 - The United States leads content production, with rising international contributions  
 - Drama and International genres are most prevalent  
-- Mature-rated content (TV-MA) dominates, indicating an adult audience focus  
+
 
 ---
 
